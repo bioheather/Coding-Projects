@@ -1,5 +1,5 @@
-# Assignment 1 
-# Heather Johansen
+#  In silico protein translator
+# 
 # The purpose of this code is to translate randomly generated DNA sequences into predicted protein sequences using codon tables 
 # from https://en.wikipedia.org/wiki/Genetic_code. 
 # 
